@@ -1,7 +1,6 @@
 var app = new Vue({
-  el: "#app",
-  data: {
-    message: "Hello Vue.js!",
-    list : ["りんご","ばなな","いちご"]
-  },
+  el:"#app",
+  data:{
+    show:true
+  }
 })
